@@ -3,13 +3,18 @@
 I'm Frontend Developer
 
 <i>I created my first website back in 2002</i>
-
-
+<br>
+<br>
+<br>
 My gulp build -> https://github.com/AImaltsev/gulp-start-template
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/username)
+<br>
+<br>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
