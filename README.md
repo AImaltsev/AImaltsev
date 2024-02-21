@@ -12,7 +12,7 @@ My gulp build -> https://github.com/AImaltsev/gulp-start-template
 <br>
 <br>
 <br>
-![Codewars](https://github.r2v.ch/codewars?user=amalcev&stroke=COLOR)
+[![CodeWars](https://www.codewars.com/users/amalcev/badges/micro)](https://www.codewars.com/users/amalcev)
 <br>
 <br>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
